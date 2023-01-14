@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e250bb6e-d367-46e7-9413-c612ea5b28cb" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MoviePoster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MoviePosterRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MoviePosterRepositoryTest.java" afterDir="false" />
+    <list default="true" id="e250bb6e-d367-46e7-9413-c612ea5b28cb" name="Changes" comment="Code and tests added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MoviePosterRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MoviePosterRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +51,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MoviePosterRepositoryTest.shouldFindLast6">
-    <configuration name="MoviePosterRepositoryTest.shouldFindLast2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOP_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.MoviePosterRepositoryTest" />
-      <option name="METHOD_NAME" value="shouldFindLast2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MoviePosterRepositoryTest.shouldFindLast7">
     <configuration name="MoviePosterRepositoryTest.shouldFindLast3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOP_2" />
       <extension name="coverage">
@@ -135,6 +116,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoviePosterRepositoryTest.shouldFindLast7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MoviePosterRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldFindLast7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Movies_homework" />
       <method v="2">
@@ -150,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast6" />
+        <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast7" />
         <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast4" />
+        <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast6" />
         <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast5" />
         <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast3" />
-        <item itemvalue="JUnit.MoviePosterRepositoryTest.shouldFindLast2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,11 +171,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673434251533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code and tests added">
+      <created>1673450884036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673450884036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Code and tests added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code and tests added" />
   </component>
 </project>
